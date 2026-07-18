@@ -10,7 +10,7 @@ It combines simple HTML, CSS, and JavaScript to create an interactive visual of 
 
 ## Live Demo
 You can view the simulation here:  
-👉 [GitHub Pages Link](https://your-username.github.io/galaxy-sim/)  
+👉 [GitHub Pages Link](https://nickelodeon-bruh.github.io/galaxy-sim/)  
 
 ## How to Run
 1. Clone the repository:
